@@ -1,0 +1,24 @@
+{
+  "name": "typescriptgulpproj",
+  "version": "1.0.0",
+  "description": "Follwing a tutorial on Typescript and Gulp.  See the README for details.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raydot/typescript-in-5-minutes.git"
+  },
+  "keywords": [
+    "Typescript",
+    "Gulp",
+    "Javascript"
+  ],
+  "author": "Dave Kanter",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/raydot/typescript-in-5-minutes/issues"
+  },
+  "homepage": "https://github.com/raydot/typescript-in-5-minutes#readme"
+}
